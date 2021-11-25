@@ -31,6 +31,12 @@ This repository shows simple steps how to create
 1. Run yolo_object_detection.py to detect the custom object on an image.
 2. Run yolo_object_video_detect.py to detect the custom object on an image.
 
+## Acknowldegments 
+1. Thanks to [tzutalin](https://github.com/tzutalin/labelImg) to make the object detection annotation process so simple.
+2. Few youtube links that helped me understand the training process. 
+- https://www.youtube.com/watch?v=10joRJt39Ns
+- https://www.youtube.com/watch?v=_FNfRtXEbr4
+
 
 
 
