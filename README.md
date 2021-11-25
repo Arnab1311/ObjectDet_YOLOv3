@@ -8,8 +8,6 @@ This repository shows simple steps how to create
 
 ![This is an image](/Output_Images/Output_Test8.jpg)
 
-
-
 ![This is an image](/Output_Images/Output_Test4.jpg)
 
 ## How to create a custom object dataset
@@ -23,5 +21,14 @@ This repository shows simple steps how to create
 5. Use [labelImg](https://github.com/tzutalin/labelImg) to annotate images. (Select yolo while annotating) 
 
 ## Train a yolov3 model on the custom dataset
+
+1. Open Train_YoloV3.ipynb in google colab.
+2. Follow the steps in the notebook to train the model in colab.
+3. Use appropriate configuration steps.
+4. Download the trained model.
+
+## Test the trained model on images and video feed
+
+
 
 
