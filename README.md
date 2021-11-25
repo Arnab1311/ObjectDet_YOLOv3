@@ -28,6 +28,10 @@ This repository shows simple steps how to create
 4. Download the trained model.
 
 ## Test the trained model on images and video feed
+1. Run yolo_object_detection.py to detect the custom object on an image.
+2. Run yolo_object_video_detect.py to detect the custom object on an image.
+
+
 
 
 
