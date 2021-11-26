@@ -1,5 +1,5 @@
 # Custom Object Detection using YOLOv3
-This repository shows simple steps how to create
+This repository shows simple steps to create
 1. Custom object detection dataset. 
 2. Train a yolov3 model on the custom dataset. 
 3. Test the trained model on images and video feed. 
